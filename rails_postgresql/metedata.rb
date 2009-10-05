@@ -1,0 +1,5 @@
+maintainer        "Jiva Technology Limited"
+maintainer_email  "jamie@jivatechnology.com"
+license           "Apache 2.0"
+description       "Installs postgress and rails dependencies"
+version           "0.1"

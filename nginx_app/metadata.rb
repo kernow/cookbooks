@@ -1,0 +1,5 @@
+maintainer       "Jiva Technology Limited"
+maintainer_email "jamie@jivatechnology.com"
+license          "Apache 2.0"
+description      "Installs a rack application using good conventions"
+version          "0.1"
