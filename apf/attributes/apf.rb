@@ -1,0 +1,5 @@
+set_unless[:apf][:inbound_tcp_ports]  = "22,80"
+set_unless[:apf][:inbound_udp_ports]  = ""
+set_unless[:apf][:inbound_icmp_ports] = "3,5,11,0,30,8"
+set_unless[:apf][:outbound_tcp_ports] = "21,25,80,443,43"
+set_unless[:apf][:outbound_udp_ports] = "20,21,53"

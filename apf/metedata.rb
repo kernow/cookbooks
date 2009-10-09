@@ -1,0 +1,5 @@
+maintainer        "Media72 Hosting Limited"
+maintainer_email  "jamie.dyer@media72.net"
+license           "Apache 2.0"
+description       "Installs apf from r-fx networks"
+version           "0.1"
